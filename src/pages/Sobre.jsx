@@ -9,13 +9,13 @@ function Sobre() {
           </span>
 
           <h1 className="fw-bold text-success">
-            Descarte Certo
+            Conexão ODS 2
           </h1>
 
           <p className="text-secondary mx-auto" style={{ maxWidth: '700px' }}>
-            Uma aplicação web desenvolvida para reunir informações e
-            orientações que contribuam para práticas mais conscientes
-            de descarte de resíduos.
+            Uma aplicação web desenvolvida para aproximar pequenos produtores
+            e agricultores familiares de consumidores locais, promovendo
+            informação, agricultura sustentável e segurança alimentar.
           </p>
         </div>
 
@@ -24,15 +24,15 @@ function Sobre() {
             <div className="card h-100 border-0 shadow-sm">
               <div className="card-body p-4">
                 <h2 className="h4 text-success">
-                  🌎 O problema
+                  🌾 O problema
                 </h2>
 
                 <p className="mb-0">
-                  O descarte inadequado de resíduos pode causar impactos
-                  ambientais e dificultar o reaproveitamento de materiais.
-                  Além disso, muitas pessoas ainda possuem dúvidas sobre
-                  como separar e destinar corretamente diferentes tipos
-                  de resíduos.
+                  Pequenos produtores e agricultores familiares enfrentam
+                  dificuldades para divulgar seus produtos e iniciativas.
+                  Ao mesmo tempo, consumidores locais nem sempre encontram
+                  informações acessíveis sobre feiras, produção sustentável
+                  e canais de comercialização direta.
                 </p>
               </div>
             </div>
@@ -46,10 +46,10 @@ function Sobre() {
                 </h2>
 
                 <p className="mb-0">
-                  O Descarte Certo busca utilizar a tecnologia como meio
-                  de acesso à informação, apresentando orientações simples
-                  sobre separação e descarte de resíduos e incentivando
-                  atitudes mais responsáveis no cotidiano.
+                  O Conexão ODS 2 utiliza a tecnologia como meio de acesso
+                  à informação, criando uma ponte digital entre produtores
+                  locais, consumidores e iniciativas relacionadas à
+                  agricultura sustentável e à segurança alimentar.
                 </p>
               </div>
             </div>
@@ -60,25 +60,25 @@ function Sobre() {
           <div className="row align-items-center g-4">
             <div className="col-md-8">
               <span className="badge text-bg-success mb-2">
-                Sustentabilidade
+                ODS 2
               </span>
 
               <h2 className="h3 text-success">
-                Tecnologia e responsabilidade ambiental
+                Fome Zero e Agricultura Sustentável
               </h2>
 
               <p className="mb-0">
-                A proposta relaciona desenvolvimento web e conscientização
-                ambiental. Por meio de uma interface simples e organizada,
-                o usuário pode consultar orientações sobre diferentes tipos
-                de resíduos e utilizar recursos que auxiliam na identificação
-                de sua localidade.
+                A proposta relaciona desenvolvimento web e sustentabilidade,
+                contribuindo para a divulgação da agricultura familiar,
+                de iniciativas locais e de informações que aproximem
+                produtores e consumidores interessados em alimentos frescos
+                e de origem local.
               </p>
             </div>
 
             <div className="col-md-4 text-center">
               <div className="display-1">
-                ♻️
+                🌱
               </div>
             </div>
           </div>
@@ -138,13 +138,14 @@ function Sobre() {
 
         <div className="text-center">
           <h2 className="h4 text-success">
-            Desenvolvimento sustentável
+            Tecnologia a serviço do ODS 2
           </h2>
 
           <p className="mx-auto mb-0" style={{ maxWidth: '750px' }}>
-            O projeto busca contribuir para a conscientização sobre consumo,
-            descarte e reaproveitamento de materiais, aproximando conhecimentos
-            de desenvolvimento web de uma necessidade presente no cotidiano.
+            O projeto busca utilizar recursos de desenvolvimento web para
+            ampliar o acesso à informação, valorizar a agricultura familiar
+            e aproximar consumidores de produtores e iniciativas sustentáveis
+            presentes em suas comunidades.
           </p>
         </div>
 

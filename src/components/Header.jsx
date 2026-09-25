@@ -6,7 +6,7 @@ function Header() {
       <nav className="navbar navbar-expand-lg navbar-dark bg-success">
         <div className="container">
           <NavLink className="navbar-brand fw-bold" to="/">
-            ♻ Descarte Certo
+            🌱 Conexão ODS 2
           </NavLink>
 
           <button
